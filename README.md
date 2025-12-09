@@ -45,7 +45,7 @@ Supports prompt-based text generation
   How theoretical concepts from CampusX translate into working code
 
 📦 Installation
-  git clone https://github.com/YOUR_USERNAME/tiny-gpt-from-scratch
+  git clone https://github.com/tushar-gupta525/Tiny-gpt-from-scratch
   cd tiny-gpt-from-scratch
   pip install -r requirements.txt
 
