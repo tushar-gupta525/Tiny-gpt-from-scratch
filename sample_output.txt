@@ -1,0 +1,94 @@
+===============================
+Tiny GPT - Sample Generated Text
+===============================
+Prompt: 'ROMEO:'
+Output:
+
+ROMEO:
+I am, no, who that friar, I speak with the plimment
+In thy goodness, this flance, time arms carqued
+From hindered, and Marcius and wretched by night.
+
+DUKE OF YORK:
+Ay, shall how so us.
+
+LUCIO:
+I turn, sir, and you
+Is as the feel's cocking and Here's hand:
+O, my wrong is Camillo made to a privillow
+
+--- Interactive mode ---
+Type a prompt and press Enter. Type 'quit' to stop.
+
+Your prompt: that's beautiful evening 
+
+Model output:
+
+that's beautiful evening man;
+That I may if mock'd my fool with go conquarl.
+
+DUKE VINCENTIO:
+Nay, have you bids, and I follow us gentrans she
+Soul, I should best were every you are a snab
+Through of find you.
+
+QUEEN ELIZABETH:
+O, gogua O: we do, forget, for my hope.
+
+GRERD 
+
+--------------------------------------------------------------------------------
+
+Your prompt: science
+
+Model output:
+
+science have fellow'd you.
+The cendicious heart condemned
+If his drink din his partue proaply;
+And should me not by foul free from his law,
+Until petty the stop's words' stands;
+But go have born'd, and all begence;
+And take his more consent; are so comes st
+
+--------------------------------------------------------------------------------
+
+Your prompt: AI is
+
+Model output:
+
+AI is tall some that i' throw.
+May it will be store you on we,
+And fellow may heads ever tonguish
+It alonion one to the law, promise.
+Do not him, stay unto the world.
+But upon you and, again.
+
+LUCIO:
+It I should so.
+
+For Clarence:
+You, it is for love?
+
+IS
+
+--------------------------------------------------------------------------------
+
+Your prompt: this night and day
+
+Model output:
+
+this night and day's morning.
+The ends, to mercy moves him, nor he sea.
+Why, pain, she had not been in here?
+Sure when as this lose dry shall that seal me?
+Unvain, what was it in great issue?
+
+FLORIZEL:
+Take, and a throw of mine earch
+And good false and old night nigh
+
+--------------------------------------------------------------------------------
+
+Your prompt: quit
+Bye!
